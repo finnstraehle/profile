@@ -1,0 +1,11 @@
+.card-socials {
+  height: 100px;
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card-socials a {
+  margin: 20px;
+}
